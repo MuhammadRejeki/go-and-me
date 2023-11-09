@@ -9,3 +9,10 @@
 # How to run
 - use ```go run (file)```
 - or ``` go build (file)```
+
+# Operation Math in golang
+- Math ( + - * / % )
+- augmented assignment ( += , -= , *= , /= , %= )
+- unary operator ( ++ , -- , - , + , ! )
+- comparison operator ( > , < , >= , <= , == , != )
+- boolean operator ( && || ! )
