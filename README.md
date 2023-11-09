@@ -10,4 +10,6 @@
 - use ```go run (file)```
 - or ``` go build (file)```
 
-# Constant
+# Constant and Variable
+- Declaration
+- Conversion

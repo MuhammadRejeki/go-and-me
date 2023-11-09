@@ -9,8 +9,22 @@ func main(){
 	const (
 		firstName string = "Muhammad"
 		lastName = "Rejeki"
+		nick = "Kiikun"
 		age = 27
 	)
 
-	fmt.Println(firstName,age)
+	fmt.Println(nick,age)
+
+
+	// Type Declaration
+	// membuat nama tipe sendiri
+
+	type NIK string
+	type stats bool 
+
+	var myKTP NIK = "1111111"
+	var married stats = true
+	
+	fmt.Println(myKTP,married)
+	fmt.Println(NIK("2222222"),stats(false))
 }
