@@ -9,3 +9,7 @@
 # How to run
 - use ```go run (file)```
 - or ``` go build (file)```
+
+# Looping
+- for function
+- continue and break
