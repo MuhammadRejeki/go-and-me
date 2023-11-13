@@ -9,3 +9,8 @@
 # How to run
 - use ```go run (file)```
 - or ``` go build (file)```
+
+# Function
+- parameter
+- return value
+- multiple return value
