@@ -9,3 +9,6 @@
 # How to run
 - use ```go run (file)```
 - or ``` go build (file)```
+
+# Golang Web App
+- browser "localhost:9000"
