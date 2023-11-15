@@ -63,6 +63,3 @@ func filter(data []string, callback func(string) bool) []string {
     return result
 }
 
-func main() {
-    
-}
