@@ -14,3 +14,5 @@
 - parameter
 - return value
 - multiple return value
+- variadic func
+- func as parameters
